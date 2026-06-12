@@ -124,17 +124,15 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=UdayBhardwaj&theme=tokyonight&margin-w=4&margin-h=4&row=2&column=3)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=UdayBhardwaj&theme=tokyonight&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Productive Time & Commit Stats
+## 📈 Commit Stats
 
 <div align="center">
-
-[![Uday's GitHub | Productive Time](https://github-readme-stats.vercel.app/api/wakatime?username=UdayBhardwaj&theme=tokyonight&hide_border=true)](https://github.com/UdayBhardwaj)
 
 ![Commit Stats](https://github-readme-stats.vercel.app/api?username=UdayBhardwaj&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,prs_merged)
 
