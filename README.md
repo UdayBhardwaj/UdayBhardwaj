@@ -89,6 +89,14 @@ Q-learning agent with a custom state-action space and reward function, improving
 
 ---
 
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/UdayBhardwaj/UdayBhardwaj/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 💻 Coding Profiles
 
 <div align="center">
