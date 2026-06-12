@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Uday+%F0%9F%91%8B;ML%2FAI+Undergrad;Explainable+AI+Enthusiast;Building+models+that+explain+themselves)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Uday+%F0%9F%91%8B;ML%2FAI+Undergrad;Explainable+AI+Enthusiast;I+build+models+that+explain+themselves)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 
 </div>
 
@@ -18,6 +20,8 @@ ML/AI undergrad who likes models that can explain themselves — and projects th
 ---
 
 ## 🧩 Projects
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 **🧠 Explainable Facial Emotion Recognition (FER)**
 CNNs (VGG16/ResNet50) on FER2013, up to 90% accuracy — paired with LRP and Grad-CAM so you can actually see what the model is keying on. Grad-CAM hit 59.76% insertion AUC vs. 14.3% random baseline.
