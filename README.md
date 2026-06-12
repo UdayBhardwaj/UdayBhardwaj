@@ -1,21 +1,21 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Uday+%F0%9F%91%8B;ML%2FAI+Undergrad+%7C+Explainable+AI;I+build+models+that+explain+themselves)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Uday+%F0%9F%91%8B;ML%2FAI+Undergrad;Building+end-to-end+ML+%26+LLM+systems;Now+exploring+Agentic+AI+%26+LangChain)](https://git.io/typing-svg)
 
-![Explainable AI](https://img.shields.io/badge/Focus-Explainable_AI-7AA2F7?style=flat-square)
+![ML Engineer](https://img.shields.io/badge/Focus-Machine_Learning_%26_LLMs-7AA2F7?style=flat-square)
 ![Open to](https://img.shields.io/badge/Open_to-ML_Internships_%26_Research-2ECC71?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=UdayBhardwaj&style=flat-square&color=7AA2F7)
 
 </div>
 
-ML/AI undergrad who likes models that can explain themselves — and projects that actually run end-to-end, not just in a notebook.
+ML/AI undergrad who likes building machine learning systems that actually run end-to-end — from training to deployment, not just in a notebook.
 
 ```text
 🎓  B.E. CSE (AI & ML) — Chandigarh University
-🔬  Focus: Explainable AI — SHAP, LRP, Grad-CAM
-🧠  Comfortable across CV, NLP, time-series, and RL
-📝  Co-author, IEEE-format paper on interpretability methods (pending publication)
-🌱  Currently learning: LLM fine-tuning, MLOps, Transformers
+🧠  Working across Computer Vision, NLP, time-series, and Reinforcement Learning
+🤖  Building with LLMs — now diving into Agentic AI & LangChain
+📝  Research accepted at ICDAM 2026 (Springer LNNS, Scopus-indexed)
+🌱  Currently learning: Agentic AI, LangChain, LLM fine-tuning, MLOps
 ```
 
 ---
@@ -23,7 +23,7 @@ ML/AI undergrad who likes models that can explain themselves — and projects th
 ## 🧩 Featured Projects
 
 **🧠 [Explainable Facial Emotion Recognition (FER)](https://github.com/UdayBhardwaj/Facial-Emotion-Recognition-with-Explainable-AI-Grad-CAM-LRP-on-VGG-ResNet-)**
-CNNs (VGG16/ResNet50) on FER2013, up to 90% accuracy — paired with LRP and Grad-CAM to visualize *what* the model is keying on. Grad-CAM reached 59.76% insertion AUC vs. 14.3% random baseline.
+CNNs (VGG16/ResNet50) on FER2013, up to 90% accuracy — paired with LRP and Grad-CAM to visualize *what* the model is keying on. Grad-CAM reached 59.76% insertion AUC vs. 14.3% random baseline. Basis for a paper accepted at ICDAM 2026 (Springer LNNS).
 `Python` `PyTorch` `LRP` `Grad-CAM`
 
 **📈 Stock Price Prediction with SHAP**
@@ -52,6 +52,7 @@ Q-learning agent with a custom state-action space and reward function, improving
 **ML / AI**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -88,11 +89,16 @@ Q-learning agent with a custom state-action space and reward function, improving
 
 ---
 
-## 🧮 LeetCode
+## 💻 Coding Profiles
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Agentuday0006?theme=dark&font=Karla&ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/Agentuday006?theme=dark&font=Karla&ext=heatmap" />
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Agentuday006/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_HANDLE)
 
 </div>
 
