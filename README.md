@@ -88,11 +88,20 @@ Q-learning agent with a custom state-action space and reward function, improving
 
 ---
 
-## 🧮 LeetCode
+## 💻 Coding Profiles
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Agentuday006?theme=dark&font=Karla&ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/Agentuday006?theme=dark&font=Karla&ext=heatmap" />
+
+<br/>
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Agentuday006&theme=dark)
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Agentuday006/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
 
 </div>
 
