@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Uday+%F0%9F%91%8B;ML%2FAI+Undergrad;Explainable+AI+Enthusiast;I+build+models+that+explain+themselves)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF4081&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Uday+%F0%9F%91%8B;ML%2FAI+Undergrad;Explainable+AI+Enthusiast;I+build+models+that+explain+themselves)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 
@@ -12,7 +12,7 @@ ML/AI undergrad who likes models that can explain themselves — and projects th
 
 ![Chai](https://img.shields.io/badge/☕_Fueled_by-Chai-D2691E?style=flat-square)
 ![Lofi](https://img.shields.io/badge/🎧_Coding_to-Lofi-9370DB?style=flat-square)
-![XAI](https://img.shields.io/badge/🔍_Obsessed_with-Explainable_AI-7AA2F7?style=flat-square)
+![XAI](https://img.shields.io/badge/🔍_Obsessed_with-Explainable_AI-FE428E?style=flat-square)
 ![Learning](https://img.shields.io/badge/📚_Always-Learning-2ECC71?style=flat-square)
 
 </div>
@@ -21,7 +21,7 @@ ML/AI undergrad who likes models that can explain themselves — and projects th
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -105,7 +105,7 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 
 ## 🧮 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Agentuday006?theme=dark&font=Karla&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Agentuday006?theme=radical&font=Karla&ext=heatmap)
 
 > 🚀 Grinding DSA daily — building toward consistent problem-solving for ML/SWE interviews.
 
@@ -113,10 +113,10 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=UdayBhardwaj&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=UdayBhardwaj&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=UdayBhardwaj&show_icons=true&theme=radical&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=UdayBhardwaj&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayBhardwaj&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayBhardwaj&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -124,7 +124,7 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=UdayBhardwaj&theme=tokyonight&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=UdayBhardwaj&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -134,7 +134,7 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 
 <div align="center">
 
-![Commit Stats](https://github-readme-stats.vercel.app/api?username=UdayBhardwaj&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,prs_merged)
+![Commit Stats](https://github-readme-stats.vercel.app/api?username=UdayBhardwaj&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&show=reviews,discussions_started,prs_merged)
 
 </div>
 
@@ -144,7 +144,7 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 
 <div align="center">
 
-![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
+![Jokes](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true)
 
 </div>
 
@@ -159,8 +159,8 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=UdayBhardwaj&style=for-the-badge&color=7AA2F7)
+![Profile Views](https://komarev.com/ghpvc/?username=UdayBhardwaj&style=for-the-badge&color=FF4081)
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
