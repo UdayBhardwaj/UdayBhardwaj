@@ -8,6 +8,23 @@
 
 ML/AI undergrad who likes models that can explain themselves — and projects that actually run end-to-end, not just in a notebook.
 
+<div align="center">
+
+![Chai](https://img.shields.io/badge/☕_Fueled_by-Chai-D2691E?style=flat-square)
+![Lofi](https://img.shields.io/badge/🎧_Coding_to-Lofi-9370DB?style=flat-square)
+![XAI](https://img.shields.io/badge/🔍_Obsessed_with-Explainable_AI-7AA2F7?style=flat-square)
+![Learning](https://img.shields.io/badge/📚_Always-Learning-2ECC71?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
 ```text
 🎓  B.E. CSE (AI & ML) — Chandigarh University
 🔬  Focus: Explainable AI — SHAP, LRP, Grad-CAM
@@ -100,6 +117,32 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=UdayBhardwaj&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayBhardwaj&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=UdayBhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UdayBhardwaj&theme=tokyo-night&hide_border=true)](https://github.com/UdayBhardwaj)
+
+---
+
+## 😄 Dev Joke of the Day
+
+<div align="center">
+
+![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
+
+</div>
 
 ---
 
