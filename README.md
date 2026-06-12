@@ -1,29 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF4081&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Uday+%F0%9F%91%8B;ML%2FAI+Undergrad;Explainable+AI+Enthusiast;I+build+models+that+explain+themselves)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Uday+%F0%9F%91%8B;ML%2FAI+Undergrad+%7C+Explainable+AI;I+build+models+that+explain+themselves)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+![Explainable AI](https://img.shields.io/badge/Focus-Explainable_AI-7AA2F7?style=flat-square)
+![Open to](https://img.shields.io/badge/Open_to-ML_Internships_%26_Research-2ECC71?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=UdayBhardwaj&style=flat-square&color=7AA2F7)
 
 </div>
 
 ML/AI undergrad who likes models that can explain themselves — and projects that actually run end-to-end, not just in a notebook.
-
-<div align="center">
-
-![Chai](https://img.shields.io/badge/☕_Fueled_by-Chai-D2691E?style=flat-square)
-![Lofi](https://img.shields.io/badge/🎧_Coding_to-Lofi-9370DB?style=flat-square)
-![XAI](https://img.shields.io/badge/🔍_Obsessed_with-Explainable_AI-FE428E?style=flat-square)
-![Learning](https://img.shields.io/badge/📚_Always-Learning-2ECC71?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ```text
 🎓  B.E. CSE (AI & ML) — Chandigarh University
@@ -31,34 +16,27 @@ ML/AI undergrad who likes models that can explain themselves — and projects th
 🧠  Comfortable across CV, NLP, time-series, and RL
 📝  Co-author, IEEE-format paper on interpretability methods (pending publication)
 🌱  Currently learning: LLM fine-tuning, MLOps, Transformers
-🤝  Open to: ML internships, research collaborations, open-source contributions
 ```
 
 ---
 
-## 🧩 Projects
+## 🧩 Featured Projects
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-**🧠 Explainable Facial Emotion Recognition (FER)**
-CNNs (VGG16/ResNet50) on FER2013, up to 90% accuracy — paired with LRP and Grad-CAM so you can actually see what the model is keying on. Grad-CAM hit 59.76% insertion AUC vs. 14.3% random baseline.
+**🧠 [Explainable Facial Emotion Recognition (FER)](https://github.com/UdayBhardwaj/Facial-Emotion-Recognition-with-Explainable-AI-Grad-CAM-LRP-on-VGG-ResNet-)**
+CNNs (VGG16/ResNet50) on FER2013, up to 90% accuracy — paired with LRP and Grad-CAM to visualize *what* the model is keying on. Grad-CAM reached 59.76% insertion AUC vs. 14.3% random baseline.
 `Python` `PyTorch` `LRP` `Grad-CAM`
 
 **📈 Stock Price Prediction with SHAP**
-LSTM/GRU models on historical price data (R² ≈ 0.64, beating ARIMA and regression baselines), with SHAP used to surface which technical indicators actually drive the predictions.
+LSTM/GRU time-series models (R² ≈ 0.64, beating ARIMA and regression baselines), with SHAP surfacing the technical indicators that actually drive predictions.
 `Python` `LSTM` `GRU` `SHAP`
 
 **🦯 Voice-First Navigation Assistant**
-Zero-screen assistant for visually impaired users — Web Speech API + MediaRecorder fallback + TTS, Flask/SQLite backend.
+Zero-screen assistant for visually impaired users — Web Speech API + MediaRecorder fallback + TTS, on a Flask/SQLite backend.
 `Python` `Flask` `Web Speech API`
 
 **🎬 Movie Recommender (Reinforcement Learning)**
-Q-learning agent with a custom state-action space and reward function, improving long-term relevance by 20% over random baseline.
+Q-learning agent with a custom state-action space and reward function, improving long-term relevance by 20% over a random baseline.
 `Python` `Q-Learning` `RL`
-
-**🧘 Yoga Pose Detection**
-Real-time pose classification using MediaPipe landmarks, 90% accuracy.
-`Python` `MediaPipe` `OpenCV`
 
 ---
 
@@ -79,19 +57,13 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Web / Backend**
+**Web / Backend & Tools**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**DevOps / Tools / Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -103,64 +75,34 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 
 ---
 
-## 🧮 LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Agentuday006?theme=radical&font=Karla&ext=heatmap)
-
-> 🚀 Grinding DSA daily — building toward consistent problem-solving for ML/SWE interviews.
-
----
-
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=UdayBhardwaj&show_icons=true&theme=radical&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=UdayBhardwaj&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayBhardwaj&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🏆 Trophies
-
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=UdayBhardwaj&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=UdayBhardwaj&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayBhardwaj&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=UdayBhardwaj&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Commit Stats
+## 🧮 LeetCode
 
 <div align="center">
 
-![Commit Stats](https://github-readme-stats.vercel.app/api?username=UdayBhardwaj&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&show=reviews,discussions_started,prs_merged)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Agentuday006?theme=dark&font=Karla&ext=heatmap)
 
 </div>
 
 ---
 
-## 😄 Dev Joke of the Day
+## 🔗 Connect
 
 <div align="center">
-
-![Jokes](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true)
-
-</div>
-
----
-
-## 🔗 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaybhardwaj06/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajuday06@gmail.com)
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=UdayBhardwaj&style=for-the-badge&color=FF4081)
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
