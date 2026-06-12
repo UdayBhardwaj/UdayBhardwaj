@@ -1,4 +1,8 @@
-# Hey, I'm Uday 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Uday+%F0%9F%91%8B;ML%2FAI+Undergrad;Explainable+AI+Enthusiast;Building+models+that+explain+themselves)](https://git.io/typing-svg)
+
+</div>
 
 ML/AI undergrad who likes models that can explain themselves — and projects that actually run end-to-end, not just in a notebook.
 
@@ -80,7 +84,7 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 
 ## 🧮 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/UdayBhardwaj?theme=dark&font=Karla&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Agentuday006?theme=dark&font=Karla&ext=heatmap)
 
 > 🚀 Grinding DSA daily — building toward consistent problem-solving for ML/SWE interviews.
 
@@ -99,3 +103,13 @@ Real-time pose classification using MediaPipe landmarks, 90% accuracy.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaybhardwaj06/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajuday06@gmail.com)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=UdayBhardwaj&style=for-the-badge&color=7AA2F7)
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
