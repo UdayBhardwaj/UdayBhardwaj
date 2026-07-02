@@ -26,7 +26,7 @@ ML/AI undergrad who likes building machine learning systems that actually run en
 CNNs (VGG16/ResNet50) on FER2013, up to 90% accuracy — paired with LRP and Grad-CAM to visualize *what* the model is keying on. Grad-CAM reached 59.76% insertion AUC vs. 14.3% random baseline. Basis for a paper accepted at ICDAM 2026 (Springer LNNS).
 `Python` `PyTorch` `LRP` `Grad-CAM`
 
-**📈 [ORION] (https://github.com/UdayBhardwaj/ORION)**
+**📈 [ORION](https://github.com/UdayBhardwaj/ORION)**
 Probabilistic transformer-based stock forecasting and portfolio risk analysis system for predicting market movements and quantifying risk.
 `Python` `LSTM` `Transformers`
 
