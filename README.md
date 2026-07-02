@@ -26,9 +26,9 @@ ML/AI undergrad who likes building machine learning systems that actually run en
 CNNs (VGG16/ResNet50) on FER2013, up to 90% accuracy — paired with LRP and Grad-CAM to visualize *what* the model is keying on. Grad-CAM reached 59.76% insertion AUC vs. 14.3% random baseline. Basis for a paper accepted at ICDAM 2026 (Springer LNNS).
 `Python` `PyTorch` `LRP` `Grad-CAM`
 
-**📈 Stock Price Prediction with SHAP**
-LSTM/GRU time-series models (R² ≈ 0.64, beating ARIMA and regression baselines), with SHAP surfacing the technical indicators that actually drive predictions.
-`Python` `LSTM` `GRU` `SHAP`
+**📈 ORION (https://github.com/UdayBhardwaj/ORIO)**
+Probabilistic transformer-based stock forecasting and portfolio risk analysis system for predicting market movements and quantifying risk.
+`Python` `LSTM` `Transformers`
 
 **🦯 Voice-First Navigation Assistant**
 Zero-screen assistant for visually impaired users — Web Speech API + MediaRecorder fallback + TTS, on a Flask/SQLite backend.
